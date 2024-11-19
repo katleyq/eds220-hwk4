@@ -1,10 +1,11 @@
 ```
 eds220-hwk4
 │   README.md
-|   hwk4-task2-fire-perimeter-YOURLASTNAME.ipynb
-│   hwk4-task2-false-color-YOURLASTNAME.ipynb
+|   hwk4-task2-fire-perimeter-LE.ipynb
+│   hwk4-task2-false-color-LE.ipynb
 |   .gitignore
 │
 └───data
-    │   thomas-fire-boundary-file
+    │   landsat8-2018-01-26-sb-simplified.nc
+    │   California_Fire_Perimeters
 ```
