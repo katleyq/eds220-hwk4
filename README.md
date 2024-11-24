@@ -5,7 +5,7 @@
 
 **About**: 
 
-
+This purpose of this repository is to demonstrate how to use remote sensing data to identify burn areas. We'll use the Thomas Fire that occurred in Santa Barbara County, California in 2017 as a case study.
 
 **Repository Structure:**
 
@@ -39,6 +39,10 @@ This notebook utilizes the following datasets:
 **References**
 
 Microsoft Planetary Computer. (Access Date: November 2024). Landsat Collection 2, Level-2 [Dataset]. U.S. Geological Survey (USGS). https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+
+Riebeek, H. (2014, March 4). Why is that forest red and that cloud blue? NASA Earth Observatory. https://earthobservatory.nasa.gov/features/FalseColor
+
+U.S. Geological Survey. (2021, November 12). Common Landsat band combinations [Image]. U.S. Department of the Interior. https://www.usgs.gov/media/images/common-landsat-band-combinations
 
 U.S. Geological Survey. (Access Date: November 2024). California fire perimeters (all) [Dataset]. Data.gov. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
 
