@@ -11,9 +11,9 @@ This purpose of this repository is to demonstrate how to use remote sensing data
 
 This repository contains two notebooks: 
 
-`hwk4-task2-fire-perimeter-LE.ipynb` - Used to obtain Thomas Fire Polygon 
+`thomas-fire-perimeter.ipynb` - Used to obtain Thomas Fire Polygon 
 
-`hwk4-task2-false-color-LE.ipynb` - Used to generate true and false color images to compare to vector data
+`thomas-fire-false-color-image.ipynb` - Used to generate true and false color images to compare to vector data
 
 The repository has the following structure:
 
